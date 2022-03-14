@@ -6,6 +6,7 @@ import org.slf4j.LoggerFactory;
 
 public class FabricLearn implements ModInitializer {
 
+	// MOD ID Creation
 	public static final String MOD_ID = "fabriclearn";
 	public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
